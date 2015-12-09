@@ -3,6 +3,5 @@
 int main()
 {
 	//aa
-	//bb
 	return 0;
 }
